@@ -11,31 +11,49 @@
    sodipodi:docname="todo-mockup.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#0b2822"
+     pagecolor="#0b0722"
      bordercolor="#eeeeee"
      borderopacity="1"
      inkscape:pageshadow="0"
      inkscape:pageopacity="1"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
      inkscape:snap-global="true"
      inkscape:zoom="0.77771465"
-     inkscape:cx="563.18857"
+     inkscape:cx="974.65054"
      inkscape:cy="532.97183"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <color-profile
+       name="Apple-RGB"
+       xlink:href="file:///app/share/color/icc/colord/AppleRGB.icc"
+       id="color-profile81889" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background">
+    <rect
+       style="fill:#0b2822;fill-opacity:1;stroke:#ffcc00;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect76772"
+       width="507.32956"
+       height="285.20178"
+       x="0.23783182"
+       y="-0.38549364" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
