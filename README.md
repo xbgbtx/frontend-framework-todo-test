@@ -15,3 +15,6 @@ Each implementation should have the following features:
 
 * Text box to create new items.
    * When item is created it is added to the 'todo' list and displayed.
+
+* CSS styling to match 'todo-mockup.svg'
+   * Implement a grid layout
