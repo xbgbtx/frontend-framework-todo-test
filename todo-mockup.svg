@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="todo-mockup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#0b2822"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="563.18857"
+     inkscape:cy="532.97183"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-decoration:underline;text-decoration-line:underline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="236.82196"
+       y="27.51269"
+       id="text3182"><tspan
+         sodipodi:role="line"
+         id="tspan3180"
+         style="font-size:16.9333px;fill:#ffcc00;stroke-width:0.264583"
+         x="236.82196"
+         y="27.51269">Todo List</tspan></text>
+    <rect
+       style="fill:#0b2822;fill-opacity:1;stroke:#7132c9;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25202"
+       width="143.61942"
+       height="124.53603"
+       x="79.989456"
+       y="51.187531" />
+    <rect
+       style="fill:#0b2822;fill-opacity:1;stroke:#7132c9;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25202-3"
+       width="143.61942"
+       height="124.53603"
+       x="309.10324"
+       y="51.210892" />
+    <rect
+       style="fill:#0b2822;fill-opacity:1;stroke:#7132c9;stroke-width:0.754845;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25202-3-6"
+       width="286.54761"
+       height="48.478111"
+       x="131.93016"
+       y="197.54514" />
+    <rect
+       style="fill:#0b2822;fill-opacity:1;stroke:#7132c9;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25202-3-6-7"
+       width="100.31458"
+       height="19.589134"
+       x="231.84317"
+       y="213.12825" />
+    <rect
+       style="fill:#0b2822;fill-opacity:1;stroke:#7132c9;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25202-3-6-7-5"
+       width="59.197929"
+       height="19.654581"
+       x="342.58923"
+       y="213.30002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.68558"
+       y="65.264847"
+       id="text29790"><tspan
+         sodipodi:role="line"
+         id="tspan29788"
+         style="stroke-width:0.264583;fill:#ffcc00;fill-opacity:1"
+         x="102.68558"
+         y="65.264847">Todo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="341.94009"
+       y="65.526489"
+       id="text32830"><tspan
+         sodipodi:role="line"
+         id="tspan32828"
+         style="stroke-width:0.264583;fill:#ffcc00;fill-opacity:1"
+         x="341.94009"
+         y="65.526489">Done</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.63545"
+       y="225.30974"
+       id="text36770"><tspan
+         sodipodi:role="line"
+         id="tspan36768"
+         style="stroke-width:0.264583;fill:#ffcc00;fill-opacity:1"
+         x="148.63545"
+         y="225.30974">Add Todo Item: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="360.0672"
+       y="226.07129"
+       id="text47324"><tspan
+         sodipodi:role="line"
+         id="tspan47322"
+         style="fill:#ffcc00;fill-opacity:1;stroke-width:0.264583"
+         x="360.0672"
+         y="226.07129">Add</tspan></text>
+  </g>
+</svg>
